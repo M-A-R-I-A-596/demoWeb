@@ -1,0 +1,43 @@
+
+#cabecera{
+background-color:#1B7F79;
+margin:0px 0px 10px 0px;
+padding:15px;
+}
+#cabecera h1{
+color:white;
+font-family:Permanent Marker;
+text-align:center;
+}
+#home{
+margin:auto;
+background-color:#164773;
+padding:3px 15px
+}
+#home a:hover{color:#89D99D}
+#home a{
+font-family:Fredoka;
+color:white;
+font-size:25px;
+text-decoration:none;
+}
+#contenido{
+padding:0px 30px;
+margin:40px;
+border:2px solid #13678A;
+border-radius:5px;
+font-family:Roboto;
+}
+
+#pie{
+margin:auto;
+background-color:#591C21;
+padding:10px 15px;
+}
+#pie p{
+font-family:Fredoka;
+color:white;
+}
+#contenido a{text-decoration:none;color:#591C21;}
+#contenido a:hover{color:#F23827;}
+
